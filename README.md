@@ -1,7 +1,6 @@
 # transcollines-qc-ca
 Ce répertoire contient les données GTFS officielles de [Transcollines](https://www.transcollines.ca/)!
-###Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données de Transcollines.
-
+**Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données de Transcollines.**
 ## Lien de téléchargement du GTFS
 https://github.com/transcollines/transcollines-qc-ca/archive/master.zip
 ## Télécharger le GTFS
