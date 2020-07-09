@@ -3,7 +3,7 @@ La Régie intermunicipale de transport des Collines (RITC), connue sous le nom d
 
 En accédant, téléchargeant ou utilisant de quelque façon et à quelque fin que ce soit les données ouvertes de la RITC, le développeur déclare avoir lu et compris les obligations et modalités des présentes Conditions d'utilisation.
 
-Les présentes Conditions d'utilisation sont disponibles dans le répertoire Github "transcollines-qc-ca" de Transcollines (www.github.com/transcollines/transcollines-qc-ca) et elles sont également intégrées aux fichiers GTFS téléchargeables compressés en fichier ZIP sous le nom: transcollines-qc-ca.zip.
+Les présentes Conditions d'utilisation sont disponibles dans le répertoire Github "transcollines-qc-ca" de Transcollines (www.github.com/transcollines/transcollines-qc-ca) et elles sont également intégrées aux fichiers GTFS téléchargeables compressés en fichier ZIP sous le nom: transcollines-qc-ca-master.zip.
 ## Droit d'auteur et non-exclusivité
 La RITC est et demeure propriétaire de tous les droits, titres et intérêts de quelque nature sur les données ouvertes, y compris sans restreindre la généralité de ce qui précède, ses droits sur la propriété intellectuelle liée aux informations, incluant tout droit d'auteur.
 En accédant, utilisant, modifiant ou redistribuant les données ouvertes de la RITC, le développeur se voit octroyer les droits non exclusifs, limités et révocables d'utilisation, de reproduction et de redistribution de ces informations.
