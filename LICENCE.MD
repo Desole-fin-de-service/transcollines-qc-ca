@@ -16,7 +16,7 @@ L’affichage des données ouvertes de la RITC ne doit pas laisser croire ou don
 
 Dans le cas où la RITC noterait une utilisation de ses données ouvertes qui soit non conforme aux présentes Conditions d’utilisation, la RITC se réserve le droit d’exiger le retrait immédiat des données de la RITC de toute application ou tout service utilisant ses données ouvertes.
 
-Les présentes Conditions d’utilisation peuvent évoluer au fil du temps et le cas échéant, la STO en informera les développeurs par une mention sur son site Internet à la page de téléchargement des mises à jour.
+Les présentes Conditions d’utilisation peuvent évoluer au fil du temps et le cas échéant, la RITC en informera les développeurs par une mention dans le fichier README.md dans le répositoire "transcollines-qc-ca" sur GitHub.
 ## Accès aux données ouvertes et mention de la RITC
 L’utilisateur des données ouvertes de la RITC reconnait qu’il est dans l’intérêt de la RITC de s’assurer de la validité des données ouvertes et que la RITC fournit les efforts nécessaires au maintien de la validité desdites données ouvertes.
 
